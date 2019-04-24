@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Built-By: ASUS
+Class-Path: lib/river-lookup-1.0.jar lib/outrigger-2.2.3.jar lib/jsk-l
+ ib-2.2.3.jar lib/jsk-platform-2.2.3.jar lib/jsk-resources-2.2.3.jar l
+ ib/reggie-2.2.3.jar lib/mahalo-2.2.3.jar lib/sonar-maven-plugin-3.5.j
+ ar lib/maven-dependency-tree-1.2.jar lib/maven-project-2.0.8.jar lib/
+ maven-settings-2.0.8.jar lib/maven-profile-2.0.8.jar lib/maven-model-
+ 2.0.8.jar lib/maven-artifact-manager-2.0.8.jar lib/maven-repository-m
+ etadata-2.0.8.jar lib/wagon-provider-api-1.0-beta-2.jar lib/maven-plu
+ gin-registry-2.0.8.jar lib/plexus-utils-1.4.6.jar lib/maven-artifact-
+ 2.0.8.jar lib/plexus-container-default-1.0-alpha-9-stable-1.jar lib/j
+ unit-3.8.1.jar lib/sonar-batch-3.5.jar lib/sonar-core-3.5.jar lib/myb
+ atis-3.1.1.jar lib/sonar-update-center-common-1.5-RC1.jar lib/hiberna
+ te-core-3.3.2.GA.jar lib/antlr-2.7.6.jar lib/commons-collections-3.1.
+ jar lib/dom4j-1.6.1.jar lib/hibernate-annotations-3.4.0.GA.jar lib/ej
+ b3-persistence-1.0.2.GA.jar lib/hibernate-commons-annotations-3.1.0.G
+ A.jar lib/hibernate-entitymanager-3.4.0.GA.jar lib/javassist-3.4.GA.j
+ ar lib/geronimo-spec-jta-1.0-M1.jar lib/commons-dbcp-1.3.jar lib/comm
+ ons-pool-1.5.4.jar lib/plexus-classworlds-2.2.3.jar lib/sonar-bluepri
+ nts-core-2.2.0-java5.jar lib/jcl-over-slf4j-1.6.2.jar lib/log4j-over-
+ slf4j-1.6.2.jar lib/sonar-deprecated-3.5.jar lib/sonar-home-3.5.jar l
+ ib/commons-io-2.0.1.jar lib/sonar-java-api-3.5.jar lib/sonar-plugin-a
+ pi-3.5.jar lib/sonar-check-api-3.5.jar lib/sonar-colorizer-3.5.jar li
+ b/sonar-channel-3.5.jar lib/sonar-duplications-3.5.jar lib/sonar-grap
+ h-3.5.jar lib/guava-10.0.1.jar lib/jsr305-1.3.9.jar lib/commons-confi
+ guration-1.6.jar lib/commons-digester-1.8.jar lib/commons-beanutils-1
+ .7.0.jar lib/commons-codec-1.4.jar lib/jfreechart-1.0.9.jar lib/jcomm
+ on-1.0.12.jar lib/xstream-1.3.1.jar lib/xpp3-1.1.3.3.jar lib/woodstox
+ -core-lgpl-4.0.4.jar lib/stax2-api-3.0.1.jar lib/stax-api-1.0.1.jar l
+ ib/staxmate-2.0.0.jar lib/xercesImpl-2.8.1.jar lib/xml-apis-1.3.03.ja
+ r lib/xalan-2.7.1.jar lib/serializer-2.7.1.jar lib/sonar-squid-3.5.ja
+ r lib/picocontainer-2.14.1.jar lib/commons-lang-2.6.jar lib/gson-2.2.
+ 2.jar lib/json-simple-1.1.1.jar lib/h2-1.3.167.jar lib/slf4j-api-1.6.
+ 2.jar lib/logback-classic-0.9.30.jar lib/logback-core-0.9.30.jar
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Main-Class: fr.ensibs.flightreservation.Main
+
